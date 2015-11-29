@@ -3,3 +3,6 @@ It creates a .git file which holds the meta data for versioning.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It lists the files which belong together in its own repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+By adding one file and then committing that file after checking the git status of what file/s are to be committed.
