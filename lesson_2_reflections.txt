@@ -13,5 +13,6 @@ If you want to try out a new concept/function and if it's ready to be implemente
 How do the diagrams help you visualize the branch structure?
 It helps to see the history of your commits and where changes have been made in a branch
 
-
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It makes the master, the child to two parent branches and are sorted by timestamp
 
