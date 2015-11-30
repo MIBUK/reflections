@@ -16,3 +16,5 @@ It helps to see the history of your commits and where changes have been made in 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It makes the master, the child to two parent branches and are sorted by timestamp
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Don't know
