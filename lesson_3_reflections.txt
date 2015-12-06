@@ -11,3 +11,7 @@ Branches are what you create either a master or a master with other branches for
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So you have a ynced/latest copy on both the remote and local.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Email or other sharing services like Dropbox. It would be easier if you have no knowledge of how GitHub works, but it would be difficult to track changes from yourself and especially from other collaborators.
