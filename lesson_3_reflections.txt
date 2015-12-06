@@ -15,3 +15,7 @@ So you have a ynced/latest copy on both the remote and local.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Email or other sharing services like Dropbox. It would be easier if you have no knowledge of how GitHub works, but it would be difficult to track changes from yourself and especially from other collaborators.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+So you test new code before implementing it into the main code. Allow other people to see it, change it, test it to confirm that it works or maybe make improvements.
+
